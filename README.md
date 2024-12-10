@@ -53,18 +53,27 @@ Selanjutnya ke testimonial, ada 3 testi, bisa dislide
 
 Terakhir footer
 ![Screenshot 2024-12-09 231046](https://github.com/user-attachments/assets/6636688f-f7f1-47ee-8704-79fd72cb8a9e)
-Ketika menekan logo instagram, akan mengarah ke instagram @friyay.beads
+
    <img width="880" alt="image" src="https://github.com/user-attachments/assets/db361975-9bba-4fd9-820c-6a7fac3debc7">
 <img width="634" alt="Screenshot 2024-12-09 230251" src="https://github.com/user-attachments/assets/b23aca82-7207-4df1-8c58-736cc51f26d5">
+Ketika menekan logo instagram, akan mengarah ke instagram @friyay.beads
 
 ![Screenshot 2024-12-09 231046](https://github.com/user-attachments/assets/246a61b0-2d2e-4773-b952-5cd8bfdeaa61)
-
 About us: Sekilas informasi tentang friyay.beads, friyay.beads dibentuk di 2023, menawarkan gelang handmade terjangkau
 Have you own idea: Sekilas informasi jika customer ingin gelang sesuai keinginannya, bisa melakukan custom, estimasi pengerjaan di 1-5 hari.
 Any Question or Need Help: jika customer punya pertanyaan atau butuh bantuan terkait produk friyay.beads, customer bisa menghubungi kami
 Contact Us: Berisikan Alamat penjualan friyay.beads, nomor telepon penjual dan alamat email jika ada pertanyaan atau butuh bantuan terkait produk friyay.beads
 
--Ketika menekan "Makassar, Sulawesi Selatan, Indonesia" akan mengarah ke
+-Ketika menekan Icon lokasi akan diarahkan ke google maps di alamat pengiriman 
+![Screenshot 2024-12-09 231101](https://github.com/user-attachments/assets/31c9612f-747d-44d8-8484-8556bd187619)
+Ketika menekan icon telepon akan mengarahkan ke whatsapp 
+![Screenshot 2024-12-09 231118](https://github.com/user-attachments/assets/d24ac3ed-b049-4463-ad23-7f01093ff297)
+Ketika menekan icon email akan mengarahkan ke email
+![Screenshot 2024-12-09 231200](https://github.com/user-attachments/assets/9bdb1c7d-ea10-46d2-9900-7e09b7823c9b)
+
+
+
+
 
 
 

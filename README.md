@@ -40,6 +40,30 @@ Selanjutnya ke benefit apa saja yang bisa didapatkan customer ketika berbelanja 
 
 Selanjutnya tersedia pilihan customize bagi customer yang ingin dibuatkan gelang sesuai dengan keinginannya 
 ![Screenshot 2024-12-09 230848](https://github.com/user-attachments/assets/cfcd1f33-564a-4917-9040-dc05d16c3b72)
-Tombol "Payment" mengarah ke link payment, pembelian minimal Rp8.000 untuk sesi ini
-Tombol "Request" mengarah ke instagram @friyay.beads
+Tombol "Payment" mengarah ke link payment, pembelian minimal Rp8.000
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/dd8e5064-a170-4b97-b032-7bca11a287b3">
+Tombol "Request" mengarah ke instagram @friyay.beads, customer bisa memesan gelang custom lewat direct messages
+<img width="634" alt="Screenshot 2024-12-09 230251" src="https://github.com/user-attachments/assets/4b22179b-41e3-424f-b196-9bd91686d370">
+
+Selanjutnya ke testimonial, ada 3 testi, bisa dislide
+<img width="960" alt="Screenshot 2024-12-09 230929" src="https://github.com/user-atta<img width="960" alt="Screenshot 2024-12-09 230953" src="https://github.com/user-attachments/assets/4f4664a9-100a-49d0-809c-77c2fbb50f56">
+chments/assets/cad68e8f-fed6-4b05-9444-8f21e01c22ee">
+<img width="960" alt="Screenshot 2024-12-09 231017" src="https://github.com/user-attachments/assets/7dd1404b-ecd4-465d-9c98-4a529a0b8267">
+
+Terakhir footer
+![Screenshot 2024-12-09 231046](https://github.com/user-attachments/assets/6636688f-f7f1-47ee-8704-79fd72cb8a9e)
+Ketika menekan logo instagram, akan mengarah ke instagram @friyay.beads
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/db361975-9bba-4fd9-820c-6a7fac3debc7">
+
+About us: Sekilas informasi tentang friyay.beads, friyay.beads dibentuk di 2023, menawarkan gelang handmade terjangkau
+Have you own idea: Sekilas informasi jika customer ingin gelang sesuai keinginannya, bisa melakukan custom, estimasi pengerjaan di 1-5 hari.
+Any Question or Need Help: jika customer punya pertanyaan atau butuh bantuan terkait produk friyay.beads, customer bisa menghubungi kami
+Contact Us: Berisikan Alamat penjualan friyay.beads, nomor telepon penjual dan alamat email jika ada pertanyaan atau butuh bantuan terkait produk friyay.beads
+
+-Ketika menekan "Makassar, Sulawesi Selatan, Indonesia" akan mengarah ke
+
+
+
+
+
 

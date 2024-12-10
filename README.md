@@ -54,7 +54,7 @@ Selanjutnya ke testimonial, ada 3 testi, bisa dislide
 Terakhir footer
 ![Screenshot 2024-12-09 231046](https://github.com/user-attachments/assets/6636688f-f7f1-47ee-8704-79fd72cb8a9e)
 
-   <img width="880" alt="image" src="https://github.com/user-attachments/assets/db361975-9bba-4fd9-820c-6a7fac3debc7">
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/db361975-9bba-4fd9-820c-6a7fac3debc7">
 <img width="634" alt="Screenshot 2024-12-09 230251" src="https://github.com/user-attachments/assets/b23aca82-7207-4df1-8c58-736cc51f26d5">
 Ketika menekan logo instagram, akan mengarah ke instagram @friyay.beads
 

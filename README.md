@@ -56,6 +56,7 @@ Terakhir footer
 
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/db361975-9bba-4fd9-820c-6a7fac3debc7">
 <img width="634" alt="Screenshot 2024-12-09 230251" src="https://github.com/user-attachments/assets/b23aca82-7207-4df1-8c58-736cc51f26d5">
+
 Ketika menekan logo instagram, akan mengarah ke instagram @friyay.beads
 
 ![Screenshot 2024-12-09 231046](https://github.com/user-attachments/assets/246a61b0-2d2e-4773-b952-5cd8bfdeaa61)

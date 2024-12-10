@@ -64,11 +64,11 @@ Have you own idea: Sekilas informasi jika customer ingin gelang sesuai keinginan
 Any Question or Need Help: jika customer punya pertanyaan atau butuh bantuan terkait produk friyay.beads, customer bisa menghubungi kami
 Contact Us: Berisikan Alamat penjualan friyay.beads, nomor telepon penjual dan alamat email jika ada pertanyaan atau butuh bantuan terkait produk friyay.beads
 
--Ketika menekan Icon lokasi akan diarahkan ke google maps di alamat pengiriman 
+- Ketika menekan Icon lokasi akan diarahkan ke google maps di alamat pengiriman 
 ![Screenshot 2024-12-09 231101](https://github.com/user-attachments/assets/31c9612f-747d-44d8-8484-8556bd187619)
-Ketika menekan icon telepon akan mengarahkan ke whatsapp 
+- Ketika menekan icon telepon akan mengarahkan ke whatsapp 
 ![Screenshot 2024-12-09 231118](https://github.com/user-attachments/assets/d24ac3ed-b049-4463-ad23-7f01093ff297)
-Ketika menekan icon email akan mengarahkan ke email
+- Ketika menekan icon email akan mengarahkan ke email
 ![Screenshot 2024-12-09 231200](https://github.com/user-attachments/assets/9bdb1c7d-ea10-46d2-9900-7e09b7823c9b)
 
 

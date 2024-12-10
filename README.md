@@ -33,5 +33,13 @@ ketika menekan tombol "payment" akan diarahkan ke payment link, customer bisa me
 Sekilas informasi dari friyay.beads, friyay.beads buka dari senin sampai sabtu, pengiriman dari jumat sampai minggu, di jam 10 pagi sampai 3 sore. 
 ![Screenshot 2024-12-09 230756](https://github.com/user-attachments/assets/b15da753-6783-4f02-80b9-8371171ff676)
 ketika menekan tombol "Buy Now" akan diarahkan ke payment link, customer bisa memasukkan sendiri nominal sesuai dengan harga gelang, pembelian minimal Rp8.000
+![Screenshot 2024-12-10 090106](https://github.com/user-attachments/assets/30418061-8d47-4bc6-b836-837063525229)
 
+Selanjutnya ke benefit apa saja yang bisa didapatkan customer ketika berbelanja di friyay.beads
 <img width="960" alt="Screenshot 2024-12-09 230818" src="https://github.com/user-attachments/assets/ff4d6f1d-46d1-4f81-98a8-ad1aa0ee478a">
+
+Selanjutnya tersedia pilihan customize bagi customer yang ingin dibuatkan gelang sesuai dengan keinginannya 
+![Screenshot 2024-12-09 230848](https://github.com/user-attachments/assets/cfcd1f33-564a-4917-9040-dc05d16c3b72)
+Tombol "Payment" mengarah ke link payment, pembelian minimal Rp8.000 untuk sesi ini
+Tombol "Request" mengarah ke instagram @friyay.beads
+

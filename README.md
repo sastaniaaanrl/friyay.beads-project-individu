@@ -46,9 +46,10 @@ Tombol "Request" mengarah ke instagram @friyay.beads, customer bisa memesan gela
 <img width="634" alt="Screenshot 2024-12-09 230251" src="https://github.com/user-attachments/assets/4b22179b-41e3-424f-b196-9bd91686d370">
 
 Selanjutnya ke testimonial, ada 3 testi, bisa dislide
-<img width="960" alt="Screenshot 2024-12-09 230929" src="https://github.com/user-atta<img width="960" alt="Screenshot 2024-12-09 230953" src="https://github.com/user-attachments/assets/4f4664a9-100a-49d0-809c-77c2fbb50f56">
-chments/assets/cad68e8f-fed6-4b05-9444-8f21e01c22ee">
-<img width="960" alt="Screenshot 2024-12-09 231017" src="https://github.com/user-attachments/assets/7dd1404b-ecd4-465d-9c98-4a529a0b8267">
+<img width="960" alt="Screenshot 2024-12-09 230929" src="https://github.com/user-attachments/assets/13a3099d-04d4-4fdb-83b1-82f060fd308c">
+<img width="960" alt="Screenshot 2024-12-09 230953" src="https://github.com/user-attachments/assets/e36f1592-4cca-4076-999e-516967847dd8">
+<img width="960" alt="Screenshot 2024-12-09 231017" src="https://github.com/user-attachments/assets/0d7682d0-4b66-4f64-acc6-ab1e62969064">
+
 
 Terakhir footer
 ![Screenshot 2024-12-09 231046](https://github.com/user-attachments/assets/6636688f-f7f1-47ee-8704-79fd72cb8a9e)
